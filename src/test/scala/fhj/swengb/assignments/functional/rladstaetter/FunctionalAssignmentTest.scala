@@ -1,7 +1,7 @@
 package fhj.swengb.assignments.functional.rladstaetter
 
 import org.junit.Assert._
-import org.junit.{Ignore, Test}
+import org.junit.Test
 
 import scala.language.postfixOps
 
