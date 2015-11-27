@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.functional.dirnbaue14
+package fhj.swengb.assignments.functional.cdirnbauer
 
 /**
   * This is the first assignment for swengb 2015.
